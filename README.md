@@ -1,2 +1,2 @@
 # A-simple-HTTP-server
-Backend development(nodejs)
+This is a simple http server built with nodejs as a Zuri Training back-end intern
